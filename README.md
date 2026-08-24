@@ -1,11 +1,11 @@
 # Empleos Tech Remotos para LATAM
 
-**Actualizado: 23-08-2026 07:48 (America/El_Salvador).**
+**Actualizado: 24-08-2026 07:40 (America/El_Salvador).**
 
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
 
-Vacantes activas verificadas: **170**
+Vacantes activas verificadas: **171**
 
 ## Destacados iOS remotos
 
@@ -40,6 +40,26 @@ Vacantes activas verificadas: **170**
 - **Fecha:** 2026-08-22
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077)
+
+### Quantity Surveyor — Edspired.Tech
+
+- **Países elegibles:** Vijayawada,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha:** 2026-08-22
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098)
+
+### DTP Operator — JobTrade
+
+- **Países elegibles:** Guwahati,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha:** 2026-08-22
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099)
 
 ### DESARROLLADOR FULL STACK — Kruger NearShore LLC - Rekluti
 
@@ -121,7 +141,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037)
 
-### Medical Licensing Specialist (Contract)New Galileo Remote, United States Full-Time Anywhere in the World — Empresa no indicada
+### Medical Licensing Specialist (Contract) 3d Galileo Remote, United States Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -170,6 +190,16 @@ Vacantes activas verificadas: **170**
 - **Fecha:** 2026-08-20
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-sales-advisor-hampm-1137044)
+
+### Platypus Store Manager Grand Plaza — Platypus Shoes
+
+- **Países elegibles:** Hillcrest,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha:** 2026-08-20
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-platypus-store-manager-grand-plaza-platypus-shoes-1137085)
 
 ### Front Office Executive — Radisson Hotel Group
 
@@ -281,7 +311,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-general-interest-midjourney-1136963)
 
-### Full-stack Developer (BL paczka) 4d Base.com Gdańsk, Pomeranian Voivodeship, Poland Full-Time Anywhere in the World — Empresa no indicada
+### Full-stack Developer (BL paczka) 5d Base.com Gdańsk, Pomeranian Voivodeship, Poland Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -291,7 +321,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-bl-paczka)
 
-### Director, Email Deliverability 4d Postscript United States Full-Time Anywhere in the World — Empresa no indicada
+### Director, Email Deliverability 5d Postscript United States Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -301,7 +331,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability)
 
-### Design Specialist 4d Trafilea Remote, B, Argentina Full-Time Anywhere in the World — Empresa no indicada
+### Design Specialist 5d Trafilea Remote, B, Argentina Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -361,7 +391,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-millwright-twi-foods-inc-1136996)
 
-### [Job -26953] Senior Full Stack Developer (React/.Net) 5d Ci&t Brazil Full-Time Anywhere in the World — Empresa no indicada
+### [Job -26953] Senior Full Stack Developer (React/.Net) 6d Ci&t Brazil Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -421,7 +451,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006)
 
-### Senior Shopify Full-stack Developer (IR-471) 5d Intellectsoft Brazil Full-Time Anywhere in the World — Empresa no indicada
+### Senior Shopify Full-stack Developer (IR-471) 6d Intellectsoft Brazil Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -431,7 +461,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/intellectsoft-senior-shopify-full-stack-developer-ir-471)
 
-### Senior Full Stack Developer (TypeScript) 5d Cosuno Berlin/Remote Full-Time Anywhere in the World — Empresa no indicada
+### Senior Full Stack Developer (TypeScript) 6d Cosuno Berlin/Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -461,7 +491,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-reddy-express-karratha-customer-service-representative-otr-1136976)
 
-### Principal Full Stack Developer (TypeScript) 5d Cosuno Berlin/Remote Full-Time Anywhere in the World — Empresa no indicada
+### Principal Full Stack Developer (TypeScript) 6d Cosuno Berlin/Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -521,7 +551,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-general-cleaner-caribe-hilton-hilton-1136981)
 
-### Full-Stack Developer (Python, React, AI) 5d Huzzle Argentina Full-Time Anywhere in the World — Empresa no indicada
+### Full-Stack Developer (Python, React, AI) 6d Huzzle Argentina Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -531,7 +561,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai-1)
 
-### Full Stack Developer 5d Wing Assistant Manila, Philippines / New Delhi, India / Dhaka, Bangladesh Full-Time Anywhere in the World — Empresa no indicada
+### Full Stack Developer 6d Wing Assistant Manila, Philippines / New Delhi, India / Dhaka, Bangladesh Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -541,7 +571,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-developer-1)
 
-### Full Stack Developer 5d Sur Mexico City, Mexico City, Mexico Full-Time Anywhere in the World — Empresa no indicada
+### Full Stack Developer 6d Sur Mexico City, Mexico City, Mexico Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -641,7 +671,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-what-does-fast-paced-environment-actually-mean-for-my-day-day-baldwin-blueprint-1136931)
 
-### Senior Software Engineer, remote 6d Edfinity Austin, TX Full-Time $100,000 or more USD 🇺🇸 United States of America — Empresa no indicada
+### Senior Software Engineer, remote 7d Edfinity Austin, TX Full-Time $100,000 or more USD 🇺🇸 United States of America — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -651,7 +681,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote)
 
-### Senior Software Engineer 6d Boosted listing Collaboration.Ai Minneapolis, MN BoostedFeatured Full-Time $100,000 or more USD 🇺🇸 United States of America — Empresa no indicada
+### Senior Software Engineer 7d Boosted listing Collaboration.Ai Minneapolis, MN BoostedFeatured Full-Time $100,000 or more USD 🇺🇸 United States of America — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -680,16 +710,6 @@ Vacantes activas verificadas: **170**
 - **Fecha:** 2026-08-17
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-ballina-fair-cotton-on-group-1136970)
-
-### Sales Assistant AMX Bendigo — AMX Superstores
-
-- **Países elegibles:** Bendigo,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha:** 2026-08-17
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-sales-assistant-amx-bendigo-amx-superstores-1136973)
 
 ### Maintenance and Grounds Officer — Department of Education and Training
 
@@ -731,7 +751,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-fire-fighter-adani-airport-holdings-ltd-1136926)
 
-### AI/ML Engineer for an AI-Driven E-Commerce Platform 6d Toptal Featured Top 100 Full-Time Anywhere in the World — Empresa no indicada
+### AI/ML Engineer for an AI-Driven E-Commerce Platform 7d Toptal Featured Top 100 Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -741,7 +761,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform)
 
-### Member of the Technical Staff, Internal Agent 7d Vercel San Francisco USA Full-Time Anywhere in the World — Empresa no indicada
+### Member of the Technical Staff, Internal Agent 8d Vercel San Francisco USA Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -751,27 +771,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent)
 
-### Billing Officer — FroxJob | Executive Jobs in Nepal
-
-- **Países elegibles:** Kathmandu,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha:** 2026-08-16
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-billing-officer-froxjob-executive-jobs-in-nepal-1136908)
-
-### Airport Ground Staff Freshers Kochi — Fronix Services
-
-- **Países elegibles:** Kochi,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha:** 2026-08-16
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-airport-ground-staff-freshers-kochi-fronix-services-1136990)
-
-### Senior Fullstack Developer (React.js / Node.js) 9d Boosted listing Proxify AB Sweden Boosted Top 100 Full-Time Anywhere in the World — Empresa no indicada
+### Senior Fullstack Developer (React.js / Node.js) 10d Boosted listing Proxify AB Sweden Boosted Top 100 Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -781,7 +781,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3)
 
-### Senior Software Engineer for AI-Powered Banking Platform 11d Toptal Top 100 Full-Time North America Only — Empresa no indicada
+### Senior Software Engineer for AI-Powered Banking Platform 12d Toptal Top 100 Full-Time North America Only — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -791,7 +791,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform)
 
-### Senior Dispute Analyst 13d Lithic Remote Full-Time Anywhere in the World — Empresa no indicada
+### Senior Dispute Analyst 14d Lithic Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -801,7 +801,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst)
 
-### Manager, Government Compliance & Authorization 14d Amwell Remote US Full-Time Anywhere in the World — Empresa no indicada
+### Manager, Government Compliance & Authorization 15d Amwell Remote US Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -981,7 +981,7 @@ Vacantes activas verificadas: **170**
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://ats.rippling.com/spacedinosaurs/jobs/0d20645d-759d-4b45-b043-fb97421d6d79)
 
-### AI-Native Software Developer 27d Boosted listing OnTheGoSystems Remote BoostedFeatured Top 100 Full-Time Anywhere in the World — Empresa no indicada
+### AI-Native Software Developer 28d Boosted listing OnTheGoSystems Remote BoostedFeatured Top 100 Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -997,7 +997,17 @@ No se encontraron ofertas activas verificadas.
 
 ## Datos e inteligencia artificial
 
-### Sr. Product Manager - AI Platform 4d Highlevel India Full-Time Anywhere in the World — Empresa no indicada
+### Senior Data Analyst, B2B — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha:** 2026-08-23
+- **Fuente:** LATOjobs
+- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/ade899cd-7cff-48c3-bcb5-d8ec6540524b)
+
+### Sr. Product Manager - AI Platform 5d Highlevel India Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1007,7 +1017,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/highlevel-sr-product-manager-ai-platform)
 
-### Sr. Product Manager - AI Growth 4d Highlevel India Full-Time Anywhere in the World — Empresa no indicada
+### Sr. Product Manager - AI Growth 5d Highlevel India Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1017,7 +1027,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/highlevel-sr-product-manager-ai-growth)
 
-### Manager/ Sr. Manager - Data Product Manager 4d Tiger Analytics Inc. Toronto, Ontario, Canada Full-Time Anywhere in the World — Empresa no indicada
+### Manager/ Sr. Manager - Data Product Manager 5d Tiger Analytics Inc. Toronto, Ontario, Canada Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1027,7 +1037,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/tiger-analytics-inc-manager-sr-manager-data-product-manager)
 
-### Data Analyst (Wellbeing product) 4d Kiss My Apps Ukraine Full-Time Anywhere in the World — Empresa no indicada
+### Data Analyst (Wellbeing product) 5d Kiss My Apps Ukraine Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1037,7 +1047,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/kiss-my-apps-data-analyst-wellbeing-product)
 
-### AI Product Development Coach (Contract) 4d Leland Remote - Utah Full-Time Anywhere in the World — Empresa no indicada
+### AI Product Development Coach (Contract) 5d Leland Remote - Utah Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1047,7 +1057,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/leland-ai-product-development-coach-contract)
 
-### Senior Product Designer, Agentic AI Applications 5d Zeta Global Remote - United States Full-Time Anywhere in the World — Empresa no indicada
+### Senior Product Designer, Agentic AI Applications 6d Zeta Global Remote - United States Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1077,7 +1087,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/appodeal-independent-board-director-ml-driven-product-data-platform-leader)
 
-### Data Engineer (Interior Design) 5d Sigma Software Brasília - Brasilia, Brasília - Federal District, Brazil Full-Time Anywhere in the World — Empresa no indicada
+### Data Engineer (Interior Design) 6d Sigma Software Brasília - Brasilia, Brasília - Federal District, Brazil Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1097,7 +1107,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860)
 
-### Principal Business Intelligence Analyst 8d ZoomInfo Technologies LLC Remote Full-Time Anywhere in the World — Empresa no indicada
+### Principal Business Intelligence Analyst 9d ZoomInfo Technologies LLC Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1107,7 +1117,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst)
 
-### Python Backend Development Talent with RAG and Agentic AI Experience 11d Toptal Top 100 Full-Time Asia Only — Empresa no indicada
+### Python Backend Development Talent with RAG and Agentic AI Experience 12d Toptal Top 100 Full-Time Asia Only — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1117,7 +1127,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience)
 
-### Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company 12d Toptal Top 100 Full-Time Anywhere in the World — Empresa no indicada
+### Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company 13d Toptal Top 100 Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1127,7 +1137,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company)
 
-### Data Scientist for Top Cosmetic firm 12d Toptal Top 100 Full-Time Anywhere in the World — Empresa no indicada
+### Data Scientist for Top Cosmetic firm 13d Toptal Top 100 Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1159,7 +1169,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/sedona-digital-senior-platform-engineer-devops)
 
-### Senior DevOps Engineer 4d Truv Portugal / Cyprus / Georgia / Italy / Montenegro / Serbia / Spain / UAE Full-Time Anywhere in the World — Empresa no indicada
+### Senior DevOps Engineer 5d Truv Portugal / Cyprus / Georgia / Italy / Montenegro / Serbia / Spain / UAE Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1169,7 +1179,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/truv-senior-devops-engineer)
 
-### Senior DevOps / Infrastructure Engineer 4d Eer Poland Remote Island Lake Argyle, Remote, 6743 Australia Full-Time Anywhere in the World — Empresa no indicada
+### Senior DevOps / Infrastructure Engineer 5d Eer Poland Remote Island Lake Argyle, Remote, 6743 Australia Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1179,7 +1189,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/eer-poland-senior-devops-infrastructure-engineer)
 
-### Senior DevOps / DevEx Engineer 4d Revenuecat San Francisco, CA Full-Time Anywhere in the World — Empresa no indicada
+### Senior DevOps / DevEx Engineer 5d Revenuecat San Francisco, CA Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1199,7 +1209,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/tenchi-security-devops-engineer)
 
-### DevOps Engineer - Contractor 4d Coin Market Cap Global / Dubai / Hong Kong / Kuala Lumpur / Taipei / London / Penang / Singapore Full-Time Anywhere in the World — Empresa no indicada
+### DevOps Engineer - Contractor 5d Coin Market Cap Global / Dubai / Hong Kong / Kuala Lumpur / Taipei / London / Penang / Singapore Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1229,7 +1239,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/softswiss-middle-senior-devops-system-engineer-se-platform-ops-sun)
 
-### Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d) 5d Charisma-tec Düsseldorf Full-Time Anywhere in the World — Empresa no indicada
+### Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d) 6d Charisma-tec Düsseldorf Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1259,7 +1269,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/coderio-devops-senior)
 
-### DevOps Engineer 5d Zowie Remote Poland Full-Time Anywhere in the World — Empresa no indicada
+### DevOps Engineer 6d Zowie Remote Poland Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1269,7 +1279,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/zowie-devops-engineer)
 
-### DevOps Engineer 5d Base.com Wrocław, Lower Silesian Voivodeship, Poland Full-Time Anywhere in the World — Empresa no indicada
+### DevOps Engineer 6d Base.com Wrocław, Lower Silesian Voivodeship, Poland Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1279,7 +1289,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/base-com-devops-engineer)
 
-### AWS DevOps Engineer 5d Stadium India Full-Time Anywhere in the World — Empresa no indicada
+### AWS DevOps Engineer 6d Stadium India Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1289,7 +1299,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer)
 
-### Application Security Lead 7d Hightouch Remote - Denver Preferred Full-Time Anywhere in the World — Empresa no indicada
+### Application Security Lead 8d Hightouch Remote - Denver Preferred Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1371,7 +1381,17 @@ No se encontraron ofertas activas verificadas.
 
 ## Soporte, redes e infraestructura
 
-### Senior Full Stack Developer - PHP Laravel 4d Newrich Network São Paulo, State of São Paulo, Brazil Full-Time Anywhere in the World — Empresa no indicada
+### English-Speaking Customer Service & Order Support Representative — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha:** 2026-08-24
+- **Fuente:** workLATAM
+- **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/637363902-english-speaking-customer-service-order-support-representative)
+
+### Senior Full Stack Developer - PHP Laravel 5d Newrich Network São Paulo, State of São Paulo, Brazil Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1381,7 +1401,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/newrich-network-senior-full-stack-developer-php-laravel)
 
-### Customer Support Representative I 4d Highlevel India Full-Time Anywhere in the World — Empresa no indicada
+### Customer Support Representative I 5d Highlevel India Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1401,7 +1421,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/mechanical-orchard-head-of-product-support)
 
-### (Native Finnish) Customer Support Consultant (Future Openings, remotely) 5d Supportyourapp Prešov, Prešov Region, Slovakia Full-Time Anywhere in the World — Empresa no indicada
+### (Native Finnish) Customer Support Consultant (Future Openings, remotely) 6d Supportyourapp Prešov, Prešov Region, Slovakia Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1453,7 +1473,7 @@ No se encontraron ofertas activas verificadas.
 
 ## Producto, UX/UI y gestión tecnológica
 
-### Staff Product Manager 4d Brightwheel United States Full-Time Anywhere in the World — Empresa no indicada
+### Staff Product Manager 5d Brightwheel United States Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1463,7 +1483,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/brightwheel-staff-product-manager)
 
-### Senior Technical Product Manager 4d Simprints United Kingdom Full-Time Anywhere in the World — Empresa no indicada
+### Senior Technical Product Manager 5d Simprints United Kingdom Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1483,6 +1503,16 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/kodify-senior-product-manager)
 
+### Senior Product Designer 5d Huzzle Argentina Full-Time Anywhere in the World — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha:** 2026-08-19
+- **Fuente:** We Work Remotely
+- **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/huzzle-senior-product-designer)
+
 ### Senior Product Designer 4d Kota Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
@@ -1493,17 +1523,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/kota-senior-product-designer)
 
-### Senior Product Designer 4d Huzzle Argentina Full-Time Anywhere in the World — Empresa no indicada
-
-- **Países elegibles:** LATAM
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha:** 2026-08-19
-- **Fuente:** We Work Remotely
-- **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/huzzle-senior-product-designer)
-
-### Senior Product Designer - ShareGate Migrate 4d Workleap Canada - Remote Full-Time Anywhere in the World — Empresa no indicada
+### Senior Product Designer - ShareGate Migrate 5d Workleap Canada - Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1513,7 +1533,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/workleap-senior-product-designer-sharegate-migrate)
 
-### Senior Product Designer - ShareGate Migrate 4d Sharegate Migrate Chezworkleap Canada - Remote Full-Time Anywhere in the World — Empresa no indicada
+### Senior Product Designer - ShareGate Migrate 5d Sharegate Migrate Chezworkleap Canada - Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1523,7 +1543,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/sharegate-migrate-chezworkleap-senior-product-designer-sharegate-migrate)
 
-### Senior Platform Product Manager (Contract Position) 4d Pindrop Ukraine - Remote Full-Time Anywhere in the World — Empresa no indicada
+### Senior Platform Product Manager (Contract Position) 5d Pindrop Ukraine - Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1533,7 +1553,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/pindrop-senior-platform-product-manager-contract-position)
 
-### Product Marketing Manager 4d Mediafly Remote - Canada Full-Time Anywhere in the World — Empresa no indicada
+### Product Marketing Manager 5d Mediafly Remote - Canada Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1553,7 +1573,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/saas-product-manager)
 
-### Product Designer 4d Rockstar Canada Full-Time Anywhere in the World — Empresa no indicada
+### Product Designer 5d Rockstar Canada Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1563,7 +1583,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/rockstar-product-designer)
 
-### Product Content Specialist 4d Tractian São Paulo, SP Full-Time Anywhere in the World — Empresa no indicada
+### Product Content Specialist 5d Tractian São Paulo, SP Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1573,7 +1593,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/tractian-product-content-specialist)
 
-### Principal Product Engineer 4d Tiugo Technologies Boston Full-Time Anywhere in the World — Empresa no indicada
+### Principal Product Engineer 5d Tiugo Technologies Boston Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1603,7 +1623,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-cell-production-vbs-associates-1136965)
 
-### VP of Product 5d Performyard Arlington, VA Full-Time Anywhere in the World — Empresa no indicada
+### VP of Product 6d Performyard Arlington, VA Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1613,7 +1633,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/performyard-vp-of-product)
 
-### Staff Product Manager 5d Kindred Remote - US Featured Full-Time Anywhere in the World — Empresa no indicada
+### Staff Product Manager 6d Kindred Remote - US Featured Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1633,7 +1653,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking)
 
-### Senior Growth Product Manager 5d Infomediji . Belgrade, 00, Serbia Full-Time Anywhere in the World — Empresa no indicada
+### Senior Growth Product Manager 6d Infomediji . Belgrade, 00, Serbia Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1663,7 +1683,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/mechanical-orchard-product-manager-code-generation)
 
-### Product Designer 5d Andela Remote Full-Time Anywhere in the World — Empresa no indicada
+### Product Designer 6d Andela Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1673,7 +1693,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/andela-product-designer)
 
-### Principal Software Engineer - Product team 5d Aker Systems Remote/Home Based, UK Full-Time Anywhere in the World — Empresa no indicada
+### Principal Software Engineer - Product team 6d Aker Systems Remote/Home Based, UK Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1693,7 +1713,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/kiss-my-apps-lead-product-manager)
 
-### Finance Business Partner (Marketing & Product) 5d Holafly Remote Full-Time Anywhere in the World — Empresa no indicada
+### Finance Business Partner (Marketing & Product) 6d Holafly Remote Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1703,7 +1723,7 @@ No se encontraron ofertas activas verificadas.
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/holafly-finance-business-partner-marketing-product)
 
-### AI-Native Full Stack Product Engineer 5d Valsoft Corporation Canada Full-Time Anywhere in the World — Empresa no indicada
+### AI-Native Full Stack Product Engineer 6d Valsoft Corporation Canada Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
@@ -1712,16 +1732,6 @@ No se encontraron ofertas activas verificadas.
 - **Fecha:** 2026-08-18
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/valsoft-corporation-ai-native-full-stack-product-engineer)
-
-### Lead Product Designer — HighLevel
-
-- **Países elegibles:** India
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha:** 2026-08-17
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841)
 
 ### Software Engineer, iOS Core Product - Bogotá, Colombia — Speechify
 
