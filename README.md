@@ -1,11 +1,11 @@
 # Empleos Tech Remotos para LATAM
 
-**Actualizado: 26-08-2026 07:41 (America/El_Salvador).**
+**Actualizado: 26-08-2026 12:02 (America/El_Salvador).**
 
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
 
-Vacantes activas verificadas: **176**
+Vacantes activas verificadas: **175**
 
 Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, We Work Remotely, boards Greenhouse seleccionados, Ashby (Truelogic) y Devlane (iOS/Swift).
 
@@ -53,6 +53,16 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-full-stack-business-remote-colombia)
 
+### Mechanical EngineerNew Toptal Featured Top 100 Full-Time Anywhere in the World — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-26 (hoy)
+- **Fuente:** We Work Remotely
+- **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/toptal-mechanical-engineer)
+
 ### Smokemart &amp; GiftBox Palmerstone Sales Assistant — Smokemart &amp; GiftBox
 
 - **Países elegibles:** Darwin,
@@ -62,6 +72,46 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fecha y antigüedad:** 2026-08-25 (hace 1 día)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125)
+
+### Retail Assistant Store Manager — Skechers
+
+- **Países elegibles:** Barceloneta,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-25 (hace 1 día)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132)
+
+### Estimator — Reed
+
+- **Países elegibles:** Warrington,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-25 (hace 1 día)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-estimator-reed-1137146)
+
+### Estimator — s1jobs
+
+- **Países elegibles:** Glasgow,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-25 (hace 1 día)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-estimator-s1jobs-1137145)
+
+### AP Accountant — Bosta
+
+- **Países elegibles:** Maadi,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-25 (hace 1 día)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124)
 
 ### Residential Technician — The Abaco Club
 
@@ -473,16 +523,6 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/ci-t-job-26953-senior-full-stack-developer-react-net)
 
-### Various — Plumbers Co-op
-
-- **Países elegibles:** Sydney,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-18 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-various-plumbers-co-op-1136932)
-
 ### Unexploded Ordnance Tech II — Alaka`ina Foundation Family of Companies
 
 - **Países elegibles:** South Andros,
@@ -502,16 +542,6 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fecha y antigüedad:** 2026-08-18 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-team-member-cotton-on-market-city-mega-cotton-on-group-1136969)
-
-### Store Manager Port Macquarie — Seed Heritage
-
-- **Países elegibles:** Port Macquarie,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-18 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-seed-heritage-1136974)
 
 ### Store Manager — JACK &amp; JONES
 
@@ -582,16 +612,6 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fecha y antigüedad:** 2026-08-18 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950)
-
-### Mairoom Clerk — TPH
-
-- **Países elegibles:** Toronto,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-18 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-mairoom-clerk-tph-1137054)
 
 ### Maintenance Fitter — Power FM Bega Bay
 
@@ -743,26 +763,6 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer)
 
-### Ground Staff Required Thiruvananthapuram Airport — Fronix Services
-
-- **Países elegibles:** Thiruvananthapuram,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-17 (hace 9 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991)
-
-### General Merchandise Department Manager — Walmart Canada
-
-- **Países elegibles:** Thunder Bay,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-17 (hace 9 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-general-merchandise-department-manager-walmart-canada-1136940)
-
 ### AI/ML Engineer for an AI-Driven E-Commerce Platform 9d Toptal Top 100 Full-Time Anywhere in the World — Empresa no indicada
 
 - **Países elegibles:** LATAM
@@ -822,16 +822,6 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fecha y antigüedad:** 2026-08-10 (hace 16 días)
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst)
-
-### Manager, Government Compliance & Authorization 17d Amwell Remote US Full-Time Anywhere in the World — Empresa no indicada
-
-- **Países elegibles:** LATAM
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-09 (hace 17 días)
-- **Fuente:** We Work Remotely
-- **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/amwell-manager-government-compliance-authorization)
 
 ### Junior Backend .NET Developer — Empresa no indicada
 
@@ -1033,21 +1023,21 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://ats.rippling.com/spacedinosaurs/jobs/0d20645d-759d-4b45-b043-fb97421d6d79)
 
-### AI-Native Software Developer 30d Boosted listing OnTheGoSystems Remote BoostedFeatured Top 100 Full-Time Anywhere in the World — Empresa no indicada
-
-- **Países elegibles:** LATAM
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-27 (hace 30 días)
-- **Fuente:** We Work Remotely
-- **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer)
-
 ## QA y testing
 
 No se encontraron ofertas activas verificadas.
 
 ## Datos e inteligencia artificial
+
+### Automation Engineer (UIPath) for innovative AI ProjectNew Toptal Featured Top 100 Full-Time — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-26 (hoy)
+- **Fuente:** We Work Remotely
+- **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/toptal-automation-engineer-uipath-for-innovative-ai-project)
 
 ### Online Data Analyst - Work from Home — Empresa no indicada
 
