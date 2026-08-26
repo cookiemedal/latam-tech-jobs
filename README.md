@@ -1,11 +1,11 @@
 # Empleos Tech Remotos para LATAM
 
-**Actualizado: 26-08-2026 12:02 (America/El_Salvador).**
+**Actualizado: 26-08-2026 12:11 (America/El_Salvador).**
 
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
 
-Vacantes activas verificadas: **175**
+Vacantes activas verificadas: **174**
 
 Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, We Work Remotely, boards Greenhouse seleccionados, Ashby (Truelogic) y Devlane (iOS/Swift).
 
@@ -20,16 +20,6 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Fecha y antigüedad:** 2026-08-14 (hace 12 días)
 - **Fuente:** Greenhouse (Encora)
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/encora10/jobs/5212879007)
-
-### Software Engineer, iOS Core Product - Bogotá, Colombia — Speechify
-
-- **Países elegibles:** Bogota, Capital District, RAP (Especial) Central, Colombia
-- **Modalidad:** Remoto
-- **Contrato:** FULL_TIME
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 23 días)
-- **Fuente:** GringoJobs
-- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify?error=true)
 
 ### Senior iOS Engineer - Software — Truelogic
 
@@ -1794,16 +1784,6 @@ No se encontraron ofertas activas verificadas.
 - **Fecha y antigüedad:** 2026-08-18 (hace 8 días)
 - **Fuente:** We Work Remotely
 - **Enlace:** [Ver oferta y aplicar](https://weworkremotely.com/remote-jobs/valsoft-corporation-ai-native-full-stack-product-engineer)
-
-### Software Engineer, iOS Core Product - Bogotá, Colombia — Speechify
-
-- **Países elegibles:** Bogota, Capital District, RAP (Especial) Central, Colombia
-- **Modalidad:** Remoto
-- **Contrato:** FULL_TIME
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 23 días)
-- **Fuente:** GringoJobs
-- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify?error=true)
 
 Las ofertas pueden cambiar o cerrarse después de esta actualización.
 
