@@ -1,11 +1,11 @@
 # Empleos Tech Remotos para LATAM
 
-**Actualizado: 27-08-2026 07:38 (America/El_Salvador).**
+**Actualizado: 28-08-2026 07:37 (America/El_Salvador).**
 
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
 
-Vacantes activas verificadas: **89**
+Vacantes activas verificadas: **94**
 
 Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, We Work Remotely, boards Greenhouse seleccionados, Ashby (Truelogic) y Devlane (iOS/Swift).
 
@@ -17,7 +17,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-14 (hace 13 días)
+- **Fecha y antigüedad:** 2026-08-14 (hace 14 días)
 - **Fuente:** Greenhouse (Encora)
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/encora10/jobs/5212879007)
 
@@ -27,11 +27,31 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FullTime
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** Ashby (Truelogic)
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/truelogic/3c2afd60-791e-4584-ade9-b1eec6547cdf)
 
 ## Desarrollo de software
+
+### Gardener NUSC — W Hotels
+
+- **Países elegibles:** Albufeira,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-27 (hace 1 día)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-gardener-nusc-w-hotels-1137185)
+
+### Gardener — W Hotels
+
+- **Países elegibles:** Albufeira,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-27 (hace 1 día)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164)
 
 ### Team Manager Newtownards Extra — Tesco
 
@@ -39,7 +59,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-26 (hace 1 día)
+- **Fecha y antigüedad:** 2026-08-26 (hace 2 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144)
 
@@ -49,9 +69,19 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-26 (hace 1 día)
+- **Fecha y antigüedad:** 2026-08-26 (hace 2 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-lead-estimator-complex-co-1137153)
+
+### Kitchen Porter — Scotsman Hospitality
+
+- **Países elegibles:** Glasgow,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-26 (hace 2 días)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-kitchen-porter-scotsman-hospitality-1137184)
 
 ### Earn more — Nick Scali Limited
 
@@ -59,7 +89,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-26 (hace 1 día)
+- **Fecha y antigüedad:** 2026-08-26 (hace 2 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-earn-more-nick-scali-limited-1137154)
 
@@ -69,7 +99,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-store-manager-carters-inc-1137135)
 
@@ -79,7 +109,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125)
 
@@ -89,9 +119,19 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132)
+
+### Renewables Project Scheduler — Transportation Partners &amp; Logistics
+
+- **Países elegibles:** Black Bess,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194)
 
 ### Ramp Attendant — Swissport
 
@@ -99,7 +139,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-ramp-attendant-swissport-1137140)
 
@@ -109,7 +149,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123)
 
@@ -119,7 +159,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-estimator-reed-1137146)
 
@@ -129,7 +169,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-estimator-s1jobs-1137145)
 
@@ -139,7 +179,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124)
 
@@ -149,7 +189,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-24 (hace 3 días)
+- **Fecha y antigüedad:** 2026-08-24 (hace 4 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096)
 
@@ -159,7 +199,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-24 (hace 3 días)
+- **Fecha y antigüedad:** 2026-08-24 (hace 4 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107)
 
@@ -169,7 +209,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-22 (hace 5 días)
+- **Fecha y antigüedad:** 2026-08-22 (hace 6 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077)
 
@@ -179,7 +219,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-22 (hace 5 días)
+- **Fecha y antigüedad:** 2026-08-22 (hace 6 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098)
 
@@ -189,7 +229,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-22 (hace 5 días)
+- **Fecha y antigüedad:** 2026-08-22 (hace 6 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099)
 
@@ -199,7 +239,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-22 (hace 5 días)
+- **Fecha y antigüedad:** 2026-08-22 (hace 6 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062)
 
@@ -209,7 +249,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-store-manager-bunbury-retail-fx-1137042)
 
@@ -219,7 +259,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-stock-assistant-supre-parramatta-cotton-on-group-1137039)
 
@@ -229,7 +269,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-removalist-offsider-kent-removals-amp-storage-1137059)
 
@@ -239,7 +279,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-reddy-express-alice-springs-mt-gillen-customer-service-representative-otr-1137043)
 
@@ -249,7 +289,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069)
 
@@ -259,7 +299,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063)
 
@@ -269,7 +309,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037)
 
@@ -279,9 +319,19 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-estimator-brisbane-mcnab-1137047)
+
+### Cook FT Northpoint — Guzman y Gomez Mexican Kitchen
+
+- **Países elegibles:** North Sydney,
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
+- **Fuente:** Remote OK
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-cook-ft-northpoint-guzman-y-gomez-mexican-kitchen-1137170)
 
 ### AUS Dr Martens Sales Assistant Expression of Interest — Dr. Martens Australia / New Zealand
 
@@ -289,7 +339,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-aus-dr-martens-sales-assistant-expression-of-interest-dr-martens-australia-new-zealand-1137113)
 
@@ -299,7 +349,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-20 (hace 7 días)
+- **Fecha y antigüedad:** 2026-08-20 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-trimmer-canopy-growth-corporation-1136997)
 
@@ -309,7 +359,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-20 (hace 7 días)
+- **Fecha y antigüedad:** 2026-08-20 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-team-member-level-2-gpc-asia-pacific-1137022)
 
@@ -319,7 +369,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-20 (hace 7 días)
+- **Fecha y antigüedad:** 2026-08-20 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-sales-advisor-hampm-1137044)
 
@@ -329,7 +379,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-20 (hace 7 días)
+- **Fecha y antigüedad:** 2026-08-20 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-platypus-store-manager-grand-plaza-platypus-shoes-1137085)
 
@@ -339,7 +389,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-20 (hace 7 días)
+- **Fecha y antigüedad:** 2026-08-20 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-front-office-executive-radisson-hotel-group-1137008)
 
@@ -349,7 +399,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-20 (hace 7 días)
+- **Fecha y antigüedad:** 2026-08-20 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-beauty-merchandiser-shoppers-drug-mart-1137055)
 
@@ -359,7 +409,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-20 (hace 7 días)
+- **Fecha y antigüedad:** 2026-08-20 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-accountant-tipsy-topsy-1137029)
 
@@ -369,7 +419,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-20 (hace 7 días)
+- **Fecha y antigüedad:** 2026-08-20 (hace 8 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-account-officer-natural-spirits-nepal-1137028)
 
@@ -379,19 +429,9 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
+- **Fecha y antigüedad:** 2026-08-19 (hace 9 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-technician-1-sunbelt-rentals-inc-1137018)
-
-### Sales Development Representative — Verlo
-
-- **Países elegibles:** Greater St. John's Metropolitan Area,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-sales-development-representative-verlo-1136998)
 
 ### Overnight Task Team FT — Bass Pro Shops
 
@@ -399,59 +439,9 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
+- **Fecha y antigüedad:** 2026-08-19 (hace 9 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-overnight-task-team-ft-bass-pro-shops-1137000)
-
-### Justice Officer Grounds and Services — Department of Justice and Community Safety, Victoria
-
-- **Países elegibles:** Geelong,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-justice-officer-grounds-and-services-department-of-justice-and-community-safety-victoria-1137067)
-
-### General Practitioner North Balwyn — Bupa Australia
-
-- **Países elegibles:** Balwyn North,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-general-practitioner-north-balwyn-bupa-australia-1136968)
-
-### General Physician — Srikara Hospitals
-
-- **Países elegibles:** Nellore,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993)
-
-### General Interest — Midjourney
-
-- **Países elegibles:** San Francisco,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-general-interest-midjourney-1136963)
-
-### COSTING ENGINEER — Larsen &amp; Toubro
-
-- **Países elegibles:** Coimbatore South,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-costing-engineer-larsen-amp-toubro-1137012)
 
 ### CI001 Courier — FedEx
 
@@ -459,7 +449,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
+- **Fecha y antigüedad:** 2026-08-19 (hace 9 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-ci001-courier-fedex-1137019)
 
@@ -469,7 +459,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
+- **Fecha y antigüedad:** 2026-08-19 (hace 9 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-baker-day-loblaw-companies-limited-1136999)
 
@@ -479,59 +469,9 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
+- **Fecha y antigüedad:** 2026-08-19 (hace 9 días)
 - **Fuente:** Remote OK
 - **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-assembly-technician-flow-control-commune-1136994)
-
-### millwright — TWI Foods Inc.
-
-- **Países elegibles:** Etobicoke,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-18 (hace 9 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-millwright-twi-foods-inc-1136996)
-
-### Unexploded Ordnance Tech II — Alaka`ina Foundation Family of Companies
-
-- **Países elegibles:** South Andros,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-18 (hace 9 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-unexploded-ordnance-tech-ii-alakaina-foundation-family-of-companies-1136955)
-
-### Store Manager — JACK &amp; JONES
-
-- **Países elegibles:** Aberdeen,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-18 (hace 9 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006)
-
-### Email Developer — The Home Depot Canada
-
-- **Países elegibles:** Toronto,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-18 (hace 9 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967)
-
-### All Other Roles — Collate
-
-- **Países elegibles:** San Francisco,
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-18 (hace 9 días)
-- **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1136962)
 
 ### Senior iOS Developer — Encora
 
@@ -539,7 +479,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-14 (hace 13 días)
+- **Fecha y antigüedad:** 2026-08-14 (hace 14 días)
 - **Fuente:** Greenhouse (Encora)
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/encora10/jobs/5212879007)
 
@@ -549,7 +489,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-06 (hace 21 días)
+- **Fecha y antigüedad:** 2026-08-06 (hace 22 días)
 - **Fuente:** workLATAM
 - **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/597078965-junior-backenddot-netdeveloper)
 
@@ -559,7 +499,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://careers.wexinc.com/us/en/job/R20552/Staff-Software-Engineer)
 
@@ -569,7 +509,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote/Staff-Software-Engineer_R20552)
 
@@ -579,7 +519,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066)
 
@@ -589,7 +529,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/154701)
 
@@ -599,7 +539,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/kraken.com/c6948e7c-1cc2-4c3d-be7f-84cb833e6536)
 
@@ -609,7 +549,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FullTime
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** Ashby (Truelogic)
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/truelogic/3c2afd60-791e-4584-ade9-b1eec6547cdf)
 
@@ -619,7 +559,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/factored/jobs/5223947008)
 
@@ -629,7 +569,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://explore.jobs.netflix.net/careers/job/790298020874-software-engineer-4-member-commerce-games-engineering-usa-remote)
 
@@ -639,7 +579,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/Pyyne/0b89eb38-dfbb-496f-823d-4ce3d7701026)
 
@@ -649,7 +589,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820898003)
 
@@ -659,7 +599,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820897003)
 
@@ -669,7 +609,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820896003)
 
@@ -679,7 +619,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820895003)
 
@@ -689,7 +629,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820894003)
 
@@ -699,7 +639,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/officespacesoftware/jobs/5374776008)
 
@@ -709,7 +649,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/fleetio/jobs/5200077007)
 
@@ -719,9 +659,89 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/fleetio/jobs/5200093007)
+
+### Software Engineer, Platform - Recife, Brazil — Speechify
+
+- **Países elegibles:** Recife, Pernambuco, Brazil
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974411004)
+
+### Software Engineer, Platform - Montevideo, Uruguay — Speechify
+
+- **Países elegibles:** Montevideo, Montevideo, Uruguay
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974433004)
+
+### Software Engineer, Platform - Belo Horizonte, Brazil — Speechify
+
+- **Países elegibles:** Belo Horizonte, Minas Gerais, Brazil
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974445004)
+
+### Senior Software Engineer, Windows/Desktop Applications - San José, Costa Rica — Speechify
+
+- **Países elegibles:** San José, Costa Rica
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975117004)
+
+### Senior Software Engineer, Windows/Desktop Applications - Salvador, Brazil — Speechify
+
+- **Países elegibles:** Salvador, Bahia, Brazil
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975105004)
+
+### Senior Software Engineer, Windows/Desktop Applications - Rio de Janeiro, Brazil — Speechify
+
+- **Países elegibles:** Rio de Janeiro, Rio de Janeiro, Brazil
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975093004)
+
+### Senior Software Engineer, Windows/Desktop Applications - Córdoba, Argentina — Speechify
+
+- **Países elegibles:** Cordoba, Córdoba, Argentina
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975111004)
+
+### Senior Software Engineer, Core Experiences - Montevideo, Uruguay — Speechify
+
+- **Países elegibles:** Montevideo, Montevideo, Uruguay
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974773004)
 
 ### Senior Site Reliability Engineer — Publicis Groupe Holdings B.V
 
@@ -729,7 +749,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 29 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://employees-publicisgroupe.icims.com/jobs/167948/senior-site-reliability-engineer/job)
 
@@ -739,7 +759,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 - **Modalidad:** Remoto
 - **Contrato:** CONTRACTOR
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 29 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://ats.rippling.com/spacedinosaurs/jobs/0d20645d-759d-4b45-b043-fb97421d6d79)
 
@@ -755,7 +775,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 2 días)
+- **Fecha y antigüedad:** 2026-08-25 (hace 3 días)
 - **Fuente:** workLATAM
 - **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/640864085-online-data-analyst-work-from-home)
 
@@ -765,7 +785,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-17 (hace 10 días)
+- **Fecha y antigüedad:** 2026-08-17 (hace 11 días)
 - **Fuente:** workLATAM
 - **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/616664929-online-data-analyst-spanish-speakers)
 
@@ -775,7 +795,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** CONTRACTOR
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 24 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 25 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/futureproofing/ab8a2c71-de29-48be-9107-7a0c23e9845c)
 
@@ -785,9 +805,19 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** CONTRACTOR
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/greenhouse/jobs/8080711?gh_jid=8080711)
+
+### Software Engineer, Data Infrastructure & Acquisition - Belo Horizonte, Brazil — Speechify
+
+- **Países elegibles:** Belo Horizonte, Minas Gerais, Brazil
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975416004)
 
 ## DevOps, cloud y ciberseguridad
 
@@ -797,7 +827,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/Solvd/42cec0de-8969-4069-8674-b3c9afcfa40a)
 
@@ -807,7 +837,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 27 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 28 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://welocalize.wd1.myworkdayjobs.com/Welocalize/job/Home-Office-Argentina/Cloud-Platform-Engineer_R0007847)
 
@@ -817,7 +847,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** CONTRACTOR
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 28 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 29 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://ats.rippling.com/aspenview/jobs?rr_message=job_not_found)
 
@@ -827,7 +857,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 29 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.eu.greenhouse.io/brandwatch/jobs/4940968101)
 
@@ -837,7 +867,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 29 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.eu.greenhouse.io/cision/jobs/4923006101)
 
@@ -847,7 +877,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 29 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://employees-publicisgroupe.icims.com/jobs/167946/senior-devops-engineer-%28aws-%2b-gcp%29/job)
 
@@ -857,7 +887,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 29 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.eu.greenhouse.io/brandwatch/jobs/4940899101)
 
@@ -867,7 +897,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 29 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 30 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.eu.greenhouse.io/cision/jobs/4917035101)
 
@@ -879,7 +909,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-24 (hace 3 días)
+- **Fecha y antigüedad:** 2026-08-24 (hace 4 días)
 - **Fuente:** workLATAM
 - **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/637363902-english-speaking-customer-service-order-support-representative)
 
@@ -889,7 +919,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-21 (hace 6 días)
+- **Fecha y antigüedad:** 2026-08-21 (hace 7 días)
 - **Fuente:** workLATAM
 - **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/645461871-customer-support-specialist-remote)
 
@@ -899,7 +929,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-05 (hace 22 días)
+- **Fecha y antigüedad:** 2026-08-05 (hace 23 días)
 - **Fuente:** workLATAM
 - **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/597078964-virtual-assistant-customer-support-associate)
 
@@ -909,9 +939,19 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-04 (hace 23 días)
+- **Fecha y antigüedad:** 2026-08-04 (hace 24 días)
 - **Fuente:** workLATAM
 - **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/600156857-operations-coordinator-dispatch-customer-support-remote)
+
+### Workflow Support Engineer — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-22 (hace 37 días)
+- **Fuente:** workLATAM
+- **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/546838099-workflow-support-engineer)
 
 ### Customer Support Agent (Night Shift) — Empresa no indicada
 
@@ -919,21 +959,31 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-22 (hace 36 días)
+- **Fecha y antigüedad:** 2026-07-22 (hace 37 días)
 - **Fuente:** workLATAM
 - **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/546477684-customer-support-agent-night-shift)
 
 ## Producto, UX/UI y gestión tecnológica
 
-### Cell production — vbs associates
+### Senior Level Designer — Blackbird Interactive
 
-- **Países elegibles:** Greater Surat Area,
+- **Países elegibles:** Vancouver, BC, Canada
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-19 (hace 8 días)
+- **Fecha y antigüedad:** 2026-08-27 (hace 1 día)
 - **Fuente:** Remote OK
-- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-cell-production-vbs-associates-1136965)
+- **Enlace:** [Ver oferta y aplicar](https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156)
+
+### Especialista de Producto B2B - Marketplace — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-27 (hace 1 día)
+- **Fuente:** LATOjobs
+- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/9808128e-3689-474e-9d59-723ec11a953b)
 
 Las ofertas pueden cambiar o cerrarse después de esta actualización.
 
