@@ -1,11 +1,11 @@
 # Empleos Tech Remotos para LATAM
 
-**Actualizado: 29-08-2026 09:07 (America/El_Salvador).**
+**Actualizado: 29-08-2026 09:08 (America/El_Salvador).**
 
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
 
-Vacantes activas verificadas: **40**
+Vacantes activas verificadas: **38**
 
 Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, We Work Remotely, boards Greenhouse seleccionados, Ashby (Truelogic) y Devlane (iOS/Swift).
 
@@ -308,26 +308,6 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, W
 No se encontraron ofertas activas verificadas.
 
 ## Datos e inteligencia artificial
-
-### Online Data Analyst - Work from Home — Empresa no indicada
-
-- **Países elegibles:** LATAM
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-25 (hace 4 días)
-- **Fuente:** workLATAM
-- **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/640864085-online-data-analyst-work-from-home)
-
-### Online Data Analyst - Spanish Speakers — Empresa no indicada
-
-- **Países elegibles:** LATAM
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-17 (hace 12 días)
-- **Fuente:** workLATAM
-- **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/616664929-online-data-analyst-spanish-speakers)
 
 ### Senior AI Software Engineer - LATAM — Futureproofing
 
