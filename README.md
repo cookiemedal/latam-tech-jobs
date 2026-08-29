@@ -7,7 +7,7 @@ Cuando una oferta indique la modalidad contractual, se muestra exactamente como 
 
 Vacantes activas verificadas: **38**
 
-Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, Remote OK, We Work Remotely, boards Greenhouse seleccionados, Ashby (Truelogic) y Devlane (iOS/Swift).
+Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remotely, boards Greenhouse seleccionados, Ashby (Truelogic) y Devlane (iOS/Swift).
 
 ## Destacados iOS remotos
 
