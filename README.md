@@ -5,7 +5,7 @@
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
 
-Vacantes activas verificadas: **38**
+Vacantes activas verificadas: **37**
 
 Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remotely, boards Greenhouse seleccionados, Ashby (Truelogic) y Devlane (iOS/Swift).
 
@@ -42,16 +42,6 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Fecha y antigüedad:** 2026-08-14 (hace 15 días)
 - **Fuente:** Greenhouse (Encora)
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/encora10/jobs/5212879007)
-
-### Junior Backend .NET Developer — Empresa no indicada
-
-- **Países elegibles:** LATAM
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-06 (hace 23 días)
-- **Fuente:** workLATAM
-- **Enlace:** [Ver oferta y aplicar](https://worklatam.com/jobs/597078965-junior-backenddot-netdeveloper)
 
 ### Staff Software Engineer — WEXWEXUS
 
