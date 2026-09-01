@@ -1,6 +1,6 @@
 # Empleos Tech Remotos para LATAM
 
-**Actualizado: 01-09-2026 08:32 (America/El_Salvador).**
+**Actualizado: 01-09-2026 14:23 (America/El_Salvador).**
 
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
@@ -408,6 +408,30 @@ No se encontraron ofertas activas verificadas.
 ## Producto, UX/UI y gestión tecnológica
 
 No se encontraron ofertas activas verificadas.
+
+## iOS/Swift con más de 40 días
+
+Estas vacantes siguen accesibles y cumplen las demás validaciones, pero se muestran aparte porque superan el límite de 40 días.
+
+### Mid. iOS Engineer Engineering · LATAM · Fully Remote — Devlane
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-16 (hace 47 días)
+- **Fuente:** Devlane
+- **Enlace:** [Ver oferta y aplicar](https://careers.devlane.com/jobs/663019-mid-ios-engineer)
+
+### Senior iOS Engineer — Encora
+
+- **Países elegibles:** Colombia
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-02 (hace 61 días)
+- **Fuente:** Greenhouse (Encora)
+- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/encora10/jobs/5179401007)
 
 Las ofertas pueden cambiar o cerrarse después de esta actualización.
 
