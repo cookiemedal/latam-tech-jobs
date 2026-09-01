@@ -1,6 +1,6 @@
 # Empleos Tech Remotos para LATAM
 
-**Actualizado: 01-09-2026 14:23 (America/El_Salvador).**
+**Actualizado: 01-09-2026 14:31 (America/El_Salvador).**
 
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
@@ -23,25 +23,25 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 
 ## Desarrollo de software
 
-### Software Engineer FullStack — Empresa no indicada
+### [Job - 31387] Developer .NET Senior, Brazil — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-31 (hace 1 día)
+- **Fecha y antigüedad:** 2026-09-01 (hoy)
 - **Fuente:** LATOjobs
-- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/92c23978-5554-4852-b11c-b466fff8fc53)
+- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/dbe9b3ee-ba0c-4e57-9f1b-34780cc972ef)
 
-### Especialista em Planejamento e Capacidade - Mercado Envios — Empresa no indicada
+### Arquiteto de Soluções e Negócios – Especialista | RD Station (Remoto) — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-31 (hace 1 día)
+- **Fecha y antigüedad:** 2026-09-01 (hoy)
 - **Fuente:** LATOjobs
-- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/896bbb22-fc88-4a04-a6e1-8df902ee6170)
+- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/9101b2c4-3299-4099-9e58-07a4f2fb067f)
 
 ### Staff Software Engineer — WEXWEXUS
 
