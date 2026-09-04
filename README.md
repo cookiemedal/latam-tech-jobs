@@ -1,13 +1,13 @@
 # Empleos Tech Remotos para LATAM
 
-**Actualizado: 02-09-2026 07:36 (America/El_Salvador).**
+**Actualizado: 04-09-2026 07:38 (America/El_Salvador).**
 
 Vacantes 100% remotas con elegibilidad para talento residente en Latinoamérica, verificadas de forma automática.
 Cuando una oferta indique la modalidad contractual, se muestra exactamente como fue publicada.
 
-Vacantes activas verificadas: **54**
+Vacantes activas verificadas: **55**
 
-Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remotely, boards Greenhouse seleccionados, Ashby (Truelogic) y Devlane (iOS/Swift).
+Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remotely, We Work Globally, Apply4U, boards Greenhouse seleccionados, Ashby (Truelogic), Devlane (iOS/Swift) y Nimble.
 
 ## Destacados iOS remotos
 
@@ -17,61 +17,21 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-14 (hace 19 días)
+- **Fecha y antigüedad:** 2026-08-14 (hace 21 días)
 - **Fuente:** Greenhouse (Encora)
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/encora10/jobs/5212879007)
 
-### Software Engineer, iOS Core Product - Córdoba, Argentina — Speechify
-
-- **Países elegibles:** Cordoba, Córdoba, Argentina
-- **Modalidad:** Remoto
-- **Contrato:** FULL_TIME
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
-- **Fuente:** GringoJobs
-- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5981323004)
-
-### Software Engineer, iOS Core Product - Bogotá, Colombia — Speechify
-
-- **Países elegibles:** Bogota, Capital District, RAP (Especial) Central, Colombia
-- **Modalidad:** Remoto
-- **Contrato:** FULL_TIME
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
-- **Fuente:** GringoJobs
-- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5981218004)
-
-### Software Engineer, iOS Core Product - Belo Horizonte, Brazil — Speechify
-
-- **Países elegibles:** Belo Horizonte, Minas Gerais, Brazil
-- **Modalidad:** Remoto
-- **Contrato:** FULL_TIME
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
-- **Fuente:** GringoJobs
-- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5981300004)
-
 ## Desarrollo de software
 
-### [Job-31320] .NET Software/Integrations Architect, Brazil — Empresa no indicada
+### Analista de Inbound y Retiros - Mercado Envios — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-09-02 (hoy)
+- **Fecha y antigüedad:** 2026-09-03 (hace 1 día)
 - **Fuente:** LATOjobs
-- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/ab3e31cb-ead8-4a5d-8574-d688edda8cdd)
-
-### SENIOR SOFTWARE ENGINEER ELIXIR GOLANG — Empresa no indicada
-
-- **Países elegibles:** LATAM
-- **Modalidad:** Remoto
-- **Contrato:** No indicado
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-09-01 (hace 1 día)
-- **Fuente:** LATOjobs
-- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/58946be1-071d-4e6b-be9f-5adca2b20592)
+- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/a2e15f08-9241-4f10-8e5d-f2d8ee0c363f)
 
 ### Software Engineer, Platform - Rio de Janeiro, Brazil — Speechify
 
@@ -79,7 +39,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974444004)
 
@@ -89,7 +49,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974421004)
 
@@ -99,7 +59,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974409004)
 
@@ -109,7 +69,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974972004)
 
@@ -119,7 +79,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974747004)
 
@@ -129,7 +89,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974761004)
 
@@ -139,7 +99,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974767004)
 
@@ -149,7 +109,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974653004)
 
@@ -159,7 +119,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 33 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 35 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://careers.wexinc.com/us/en/job/R20552/Staff-Software-Engineer)
 
@@ -169,7 +129,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 33 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 35 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote/Staff-Software-Engineer_R20552)
 
@@ -179,7 +139,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 33 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 35 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066)
 
@@ -189,7 +149,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 33 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 35 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/154701)
 
@@ -199,7 +159,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 33 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 35 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/kraken.com/c6948e7c-1cc2-4c3d-be7f-84cb833e6536)
 
@@ -209,7 +169,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/factored/jobs/5223947008)
 
@@ -219,7 +179,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://explore.jobs.netflix.net/careers/job/790298020874-software-engineer-4-member-commerce-games-engineering-usa-remote)
 
@@ -229,7 +189,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/Pyyne/0b89eb38-dfbb-496f-823d-4ce3d7701026)
 
@@ -239,7 +199,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820898003)
 
@@ -249,7 +209,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820897003)
 
@@ -259,7 +219,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820896003)
 
@@ -269,7 +229,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820895003)
 
@@ -279,7 +239,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/sezzle/jobs/7820894003)
 
@@ -289,7 +249,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/officespacesoftware/jobs/5374776008)
 
@@ -299,7 +259,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974411004)
 
@@ -309,7 +269,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974433004)
 
@@ -319,7 +279,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974445004)
 
@@ -329,7 +289,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975117004)
 
@@ -339,7 +299,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975105004)
 
@@ -349,7 +309,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975093004)
 
@@ -359,7 +319,7 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975111004)
 
@@ -369,19 +329,9 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5974773004)
-
-### Senior Site Reliability Engineer — Publicis Groupe Holdings B.V
-
-- **Países elegibles:** Bogota, RAP (Especial) Central, Colombia
-- **Modalidad:** Remoto
-- **Contrato:** FULL_TIME
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
-- **Fuente:** GringoJobs
-- **Enlace:** [Ver oferta y aplicar](https://employees-publicisgroupe.icims.com/jobs/167948/senior-site-reliability-engineer/job)
 
 ### Director of Engineering (Hands-On Architect) — Space Dinosaurs
 
@@ -389,25 +339,63 @@ Fuentes consultadas: Get on Board, LATOjobs, GringoJobs, workLATAM, We Work Remo
 - **Modalidad:** Remoto
 - **Contrato:** CONTRACTOR
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://ats.rippling.com/spacedinosaurs/jobs/0d20645d-759d-4b45-b043-fb97421d6d79)
 
 ## QA y testing
 
-No se encontraron ofertas activas verificadas.
-
-## Datos e inteligencia artificial
-
-### [Job-31431] Product Owner - Data, Brazil — Empresa no indicada
+### QA Automation Lead (Data Engineering)- India — Empresa no indicada
 
 - **Países elegibles:** LATAM
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-09-02 (hoy)
-- **Fuente:** LATOjobs
-- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/cc9a40b6-b234-41cd-ab6f-88f376ab0ac2)
+- **Fecha y antigüedad:** 2026-09-04 (hoy)
+- **Fuente:** We Work Globally
+- **Enlace:** [Ver oferta y aplicar](https://weworkglobally.com/jobs/qa-automation-lead-data-engineering-india-158472)
+
+### Quality Assurance Manager, International — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-09-03 (hace 1 día)
+- **Fuente:** We Work Globally
+- **Enlace:** [Ver oferta y aplicar](https://weworkglobally.com/jobs/quality-assurance-manager-international-157733)
+
+### Freelance Tester (Faroe Islands) – Global Payment Research ($100/hr) — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-09-01 (hace 3 días)
+- **Fuente:** We Work Globally
+- **Enlace:** [Ver oferta y aplicar](https://weworkglobally.com/jobs/freelance-tester-faroe-islands-global-payment-research-100-hr-156792)
+
+### Senior QA Engineer — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-08-27 (hace 8 días)
+- **Fuente:** We Work Globally
+- **Enlace:** [Ver oferta y aplicar](https://weworkglobally.com/jobs/senior-qa-engineer-149157)
+
+## Datos e inteligencia artificial
+
+### Senior Python Data Scraping Engineer (Freelance) — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-09-04 (hoy)
+- **Fuente:** We Work Globally
+- **Enlace:** [Ver oferta y aplicar](https://weworkglobally.com/jobs/senior-python-data-scraping-engineer-freelance-158705)
 
 ### Software Engineer, Data Infrastructure & Acquisition - Medellín, Colombia — Speechify
 
@@ -415,7 +403,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975433004)
 
@@ -425,7 +413,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975439004)
 
@@ -435,7 +423,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975427004)
 
@@ -445,7 +433,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975421004)
 
@@ -455,7 +443,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975306004)
 
@@ -465,7 +453,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** CONTRACTOR
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-08-03 (hace 30 días)
+- **Fecha y antigüedad:** 2026-08-03 (hace 32 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/futureproofing/ab8a2c71-de29-48be-9107-7a0c23e9845c)
 
@@ -475,9 +463,9 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** CONTRACTOR
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
-- **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/greenhouse/jobs/8080711?gh_jid=8080711)
+- **Enlace:** [Ver oferta y aplicar](https://www.greenhouse.com/careers/opportunities)
 
 ### Software Engineer, Data Infrastructure & Acquisition - Belo Horizonte, Brazil — Speechify
 
@@ -485,7 +473,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/speechify/jobs/5975416004)
 
@@ -497,9 +485,19 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-31 (hace 33 días)
+- **Fecha y antigüedad:** 2026-07-31 (hace 35 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://jobs.ashbyhq.com/Solvd/42cec0de-8969-4069-8674-b3c9afcfa40a)
+
+### Cloud Platform Engineer — Welocalize
+
+- **Países elegibles:** Argentina, Santiago del Estero, Argentina
+- **Modalidad:** Remoto
+- **Contrato:** FULL_TIME
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-07-31 (hace 35 días)
+- **Fuente:** GringoJobs
+- **Enlace:** [Ver oferta y aplicar](https://welocalize.wd1.myworkdayjobs.com/Welocalize/job/Home-Office-Argentina/Cloud-Platform-Engineer_R0007847)
 
 ### DevOps Engineer  — AspenView Technology Partners
 
@@ -507,7 +505,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** CONTRACTOR
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-30 (hace 34 días)
+- **Fecha y antigüedad:** 2026-07-30 (hace 36 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://ats.rippling.com/aspenview/jobs?rr_message=job_not_found)
 
@@ -517,7 +515,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.eu.greenhouse.io/brandwatch/jobs/4940968101)
 
@@ -527,19 +525,9 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.eu.greenhouse.io/cision/jobs/4923006101)
-
-### Senior DevOps Engineer (AWS + GCP) — Publicis Groupe Holdings B.V
-
-- **Países elegibles:** Bogota, RAP (Especial) Central, Colombia
-- **Modalidad:** Remoto
-- **Contrato:** FULL_TIME
-- **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
-- **Fuente:** GringoJobs
-- **Enlace:** [Ver oferta y aplicar](https://employees-publicisgroupe.icims.com/jobs/167946/senior-devops-engineer-%28aws-%2b-gcp%29/job)
 
 ### DevOps Engineer — Brandwatch
 
@@ -547,7 +535,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.eu.greenhouse.io/brandwatch/jobs/4940899101)
 
@@ -557,7 +545,7 @@ No se encontraron ofertas activas verificadas.
 - **Modalidad:** Remoto
 - **Contrato:** FULL_TIME
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-29 (hace 35 días)
+- **Fecha y antigüedad:** 2026-07-29 (hace 37 días)
 - **Fuente:** GringoJobs
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.eu.greenhouse.io/cision/jobs/4917035101)
 
@@ -567,7 +555,25 @@ No se encontraron ofertas activas verificadas.
 
 ## Producto, UX/UI y gestión tecnológica
 
-No se encontraron ofertas activas verificadas.
+### Technical Product Owner / Business Analyst — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-09-04 (hoy)
+- **Fuente:** We Work Globally
+- **Enlace:** [Ver oferta y aplicar](https://weworkglobally.com/jobs/technical-product-owner-business-analyst-158617)
+
+### Senior Product Manager — Empresa no indicada
+
+- **Países elegibles:** LATAM
+- **Modalidad:** Remoto
+- **Contrato:** No indicado
+- **Compensación:** No publicada
+- **Fecha y antigüedad:** 2026-09-03 (hace 1 día)
+- **Fuente:** LATOjobs
+- **Enlace:** [Ver oferta y aplicar](https://www.latojobs.com/jobs/25ace7e0-eb2d-4825-aff6-1249779332d8)
 
 ## iOS/Swift con más de 40 días
 
@@ -579,7 +585,7 @@ Estas vacantes siguen accesibles y cumplen las demás validaciones, pero se mues
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-16 (hace 48 días)
+- **Fecha y antigüedad:** 2026-07-16 (hace 50 días)
 - **Fuente:** Devlane
 - **Enlace:** [Ver oferta y aplicar](https://careers.devlane.com/jobs/663019-mid-ios-engineer)
 
@@ -589,7 +595,7 @@ Estas vacantes siguen accesibles y cumplen las demás validaciones, pero se mues
 - **Modalidad:** Remoto
 - **Contrato:** No indicado
 - **Compensación:** No publicada
-- **Fecha y antigüedad:** 2026-07-02 (hace 62 días)
+- **Fecha y antigüedad:** 2026-07-02 (hace 64 días)
 - **Fuente:** Greenhouse (Encora)
 - **Enlace:** [Ver oferta y aplicar](https://job-boards.greenhouse.io/encora10/jobs/5179401007)
 
